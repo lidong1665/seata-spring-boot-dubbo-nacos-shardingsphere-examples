@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="samples-account-service" />
+        <module name="samples-business-service" />
+        <module name="samples-common-service" />
+        <module name="samples-order-service" />
+        <module name="samples-storage-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="samples-account-service" target="1.8" />
+      <module name="samples-business-service" target="1.8" />
+      <module name="samples-common-service" target="1.8" />
+      <module name="samples-order-service" target="1.8" />
+      <module name="samples-storage-service" target="1.8" />
+      <module name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="samples-account-service" options="-parameters" />
+      <module name="samples-business-service" options="-parameters" />
+      <module name="samples-common-service" options="-parameters" />
+      <module name="samples-order-service" options="-parameters" />
+      <module name="samples-storage-service" options="-parameters" />
+    </option>
+  </component>
+</project>

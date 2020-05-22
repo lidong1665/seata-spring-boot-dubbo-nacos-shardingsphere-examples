@@ -1,0 +1,48 @@
+server:
+  port: 8104
+
+spring:
+  application:
+    name: dubbo-business-example
+#====================================Dubbo config===============================================
+dubbo:
+  application:
+    id: dubbo-business-example
+    name: dubbo-business-example
+    qosEnable: false
+  protocol:
+    id: dubbo
+    name: dubbo
+    port: 10001
+  registry:
+    id: dubbo-business-example-registry
+    address: nacos://127.0.0.1:8848?namespace=40508bb4-179e-4c98-a2f1-c2c031c20b3c
+  config-center:
+    address: nacos://127.0.0.1:8848?namespace=40508bb4-179e-4c98-a2f1-c2c031c20b3c
+  metadata-report:
+    address: nacos://127.0.0.1:8848?namespace=40508bb4-179e-4c98-a2f1-c2c031c20b3c
+  consumer:
+    retries: 0
+#====================================Seata Config===============================================
+seata:
+  enabled: true
+  application-id: business-seata-example
+  tx-service-group: business-service-seata-service-group # 事务群组（可以每个应用独立取名，也可以使用相同的名字）
+  registry:
+    file:
+      name: file.conf
+    type: nacos
+    nacos:
+      server-addr: localhost:8848
+      namespace: 40508bb4-179e-4c98-a2f1-c2c031c20b3c
+      cluster: default
+  config:
+    file:
+      name: file.conf
+    type: nacos
+    nacos:
+      namespace: 40508bb4-179e-4c98-a2f1-c2c031c20b3c
+      server-addr: localhost:8848
+      group: SEATA_GROUP
+  enable-auto-data-source-proxy: false
+  use-jdk-proxy: false

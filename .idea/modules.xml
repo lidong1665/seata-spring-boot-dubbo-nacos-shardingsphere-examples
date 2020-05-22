@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/samples-account-service/samples-account-service.iml" filepath="$PROJECT_DIR$/samples-account-service/samples-account-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples-business-service/samples-business-service.iml" filepath="$PROJECT_DIR$/samples-business-service/samples-business-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples-common-service/samples-common-service.iml" filepath="$PROJECT_DIR$/samples-common-service/samples-common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples-order-service/samples-order-service.iml" filepath="$PROJECT_DIR$/samples-order-service/samples-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples-storage-service/samples-storage-service.iml" filepath="$PROJECT_DIR$/samples-storage-service/samples-storage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/seata-spring-boot-dubbo-nacos-shardingsphere-examples.iml" filepath="$PROJECT_DIR$/.idea/seata-spring-boot-dubbo-nacos-shardingsphere-examples.iml" />
+    </modules>
+  </component>
+</project>

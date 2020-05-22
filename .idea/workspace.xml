@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71f8cef9-47f1-4b2d-93d6-b99769178001" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/samples-common-service/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/samples-storage-service/target/" />
+    <ignored path="$PROJECT_DIR$/samples-order-service/target/" />
+    <ignored path="$PROJECT_DIR$/samples-account-service/target/" />
+    <ignored path="$PROJECT_DIR$/samples-business-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples-account-service/src/main/java/io/seata/samples/integration/account/dubbo/AccountDubboServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="67" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples-business-service/src/main/java/io/seata/samples/integration/call/controller/BusinessController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples-storage-service/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples-order-service/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples-business-service/src/main/java/io/seata/samples/integration/call/service/BusinessServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="26" column="28" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples-order-service/src/main/java/io/seata/samples/integration/order/dubbo/OrderDubboServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples-storage-service/src/main/java/io/seata/samples/integration/storage/StorageExampleApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="27">
+                <caret line="1" column="80" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="80" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples-order-service/src/main/java/io/seata/samples/integration/order/OrderExampleApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples-account-service/src/main/java/io/seata/samples/integration/account/AccountExampleApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mybatis-plus.version</find>
+      <find>2.2.5</find>
+      <find>ybatis-plus</find>
+      <find>seata.version</find>
+      <find>4.0.0</find>
+      <find>sharding-sphere.version</find>
+      <find>2.1.5</find>
+      <find>81c90f61-e8da-4721-92f5-b6a6796af899</find>
+      <find>nacos://127.0.0.1:8848?namespace=40508bb4-179e-4c98-a2f1-c2c031c20b3c</find>
+      <find>2.2.6</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>40508bb4-179e-4c98-a2f1-c2c031c20b3c</replace>
+      <replace>nacos://127.0.0.1:8848?namespace=40508bb4-179e-4c98-a2f1-c2c031c20b3c&amp;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>D:\springcloud\seata-spring-boot-starter-samples-200\seata-spring-boot-starter-samples</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/samples-storage-service/src/main/java/io/seata/samples/integration/storage/service/ITStorageService.java" />
+        <option value="$PROJECT_DIR$/samples-storage-service/src/main/java/io/seata/samples/integration/storage/entity/TStorage.java" />
+        <option value="$PROJECT_DIR$/samples-account-service/src/main/java/io/seata/samples/integration/account/config/SeataDataSourceAutoConfig.java" />
+        <option value="$PROJECT_DIR$/samples-order-service/src/main/java/io/seata/samples/integration/order/config/SeataDataSourceAutoConfig.java" />
+        <option value="$PROJECT_DIR$/samples-storage-service/src/main/java/io/seata/samples/integration/storage/config/SeataDataSourceAutoConfig.java" />
+        <option value="$PROJECT_DIR$/samples-order-service/src/main/java/io/seata/samples/integration/order/mapper/TOrderMapper.java" />
+        <option value="$PROJECT_DIR$/samples-order-service/src/main/java/io/seata/samples/integration/order/service/ITOrderService.java" />
+        <option value="$PROJECT_DIR$/samples-storage-service/src/main/resources/seata.conf" />
+        <option value="$PROJECT_DIR$/samples-order-service/src/main/resources/seata.conf" />
+        <option value="$PROJECT_DIR$/samples-business-service/src/main/resources/seata.conf" />
+        <option value="$PROJECT_DIR$/samples-business-service/src/main/java/io/seata/samples/integration/call/BusinessExampleApplication.java" />
+        <option value="$PROJECT_DIR$/samples-common-service/src/main/java/io/seata/samples/integration/common/dto/OrderDTO.java" />
+        <option value="$PROJECT_DIR$/samples-common-service/src/main/java/io/seata/samples/integration/common/dto/BusinessDTO.java" />
+        <option value="$PROJECT_DIR$/samples-common-service/src/main/java/io/seata/samples/integration/common/dto/AccountDTO.java" />
+        <option value="$PROJECT_DIR$/samples-order-service/src/main/java/io/seata/samples/integration/order/dubbo/OrderDubboServiceImpl.java" />
+        <option value="$PROJECT_DIR$/samples-account-service/src/main/java/io/seata/samples/integration/account/entity/TAccount.java" />
+        <option value="$PROJECT_DIR$/samples-account-service/src/main/resources/mapper/TAccountMapper.xml" />
+        <option value="$PROJECT_DIR$/samples-account-service/src/main/java/io/seata/samples/integration/account/mapper/TAccountMapper.java" />
+        <option value="$PROJECT_DIR$/samples-account-service/src/main/java/io/seata/samples/integration/account/service/TAccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/samples-account-service/target/classes/mapper/TAccountMapper.xml" />
+        <option value="$PROJECT_DIR$/samples-account-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/samples-order-service/src/main/java/io/seata/samples/integration/order/entity/TOrder.java" />
+        <option value="$PROJECT_DIR$/samples-order-service/src/main/java/io/seata/samples/integration/order/service/TOrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/samples-order-service/src/main/resources/mapper/TOrderMapper.xml" />
+        <option value="$PROJECT_DIR$/samples-storage-service/src/main/java/io/seata/samples/integration/storage/dubbo/StorageDubboServiceImpl.java" />
+        <option value="$PROJECT_DIR$/samples-storage-service/src/main/resources/mapper/TStorageMapper.xml" />
+        <option value="$PROJECT_DIR$/samples-storage-service/src/main/java/io/seata/samples/integration/storage/mapper/TStorageMapper.java" />
+        <option value="$PROJECT_DIR$/samples-storage-service/src/main/java/io/seata/samples/integration/storage/service/TStorageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/samples-account-service/src/main/java/io/seata/samples/integration/account/AccountExampleApplication.java" />
+        <option value="$PROJECT_DIR$/samples-account-service/pom.xml" />
+        <option value="$PROJECT_DIR$/samples-business-service/pom.xml" />
+        <option value="$PROJECT_DIR$/samples-common-service/pom.xml" />
+        <option value="$PROJECT_DIR$/samples-order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/samples-storage-service/pom.xml" />
+        <option value="$PROJECT_DIR$/samples-business-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/samples-account-service/src/main/resources/seata.conf" />
+        <option value="$PROJECT_DIR$/samples-storage-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/samples-order-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/samples-account-service/src/main/java/io/seata/samples/integration/account/dubbo/AccountDubboServiceImpl.java" />
+        <option value="$PROJECT_DIR$/samples-business-service/src/main/java/io/seata/samples/integration/call/service/BusinessServiceImpl.java" />
+        <option value="$PROJECT_DIR$/samples-order-service/src/main/java/io/seata/samples/integration/order/OrderExampleApplication.java" />
+        <option value="$PROJECT_DIR$/samples-storage-service/src/main/java/io/seata/samples/integration/storage/StorageExampleApplication.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="739" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-account-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-account-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-account-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-account-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-account-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-business-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-business-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-common-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-order-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-storage-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-storage-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-storage-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-storage-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seata-spring-boot-dubbo-nacos-shardingsphere-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="samples-storage-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590111681808" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Groovy compiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/samples-business-service/src/main/resources" />
+      <recent name="$PROJECT_DIR$/samples-order-service/src/main/resources" />
+      <recent name="$PROJECT_DIR$/samples-storage-service/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderExampleApplication">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="samples-account-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.seata.samples.integration.account.AccountExampleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BusinessExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="samples-business-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.seata.samples.integration.call.BusinessExampleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="samples-order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.seata.samples.integration.order.OrderExampleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StorageExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="samples-storage-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.seata.samples.integration.storage.StorageExampleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71f8cef9-47f1-4b2d-93d6-b99769178001" name="Default Changelist" comment="" />
+      <created>1585922961037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585922961037</updated>
+      <workItem from="1585922962652" duration="323000" />
+      <workItem from="1585923321956" duration="1456000" />
+      <workItem from="1586829542301" duration="1774000" />
+      <workItem from="1587037585949" duration="10792000" />
+      <workItem from="1588475528675" duration="471000" />
+      <workItem from="1589083519117" duration="8626000" />
+      <workItem from="1589985737562" duration="1913000" />
+      <workItem from="1590023306361" duration="26976000" />
+      <workItem from="1590111348406" duration="193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52524000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6169666" visible="true" weight="0.23015021" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Web" order="6" sideWeight="0.38303342" side_tool="true" weight="0.2914614" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Persistence" order="9" side_tool="true" />
+      <window_info id="JavaEE:App" order="10" side_tool="true" />
+      <window_info id="Alibaba Cloud Explorer" order="11" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.61576355" visible="true" weight="0.9464286" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35044643" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.45812806" side_tool="true" weight="0.24104235" />
+      <window_info anchor="bottom" id="Application Servers" order="8" sideWeight="0.49671593" weight="0.3041096" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32881355" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.5418719" weight="0.56808037" />
+      <window_info anchor="bottom" id="Thumbnails" order="12" weight="0.32881355" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.32899022" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32899022" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="15" weight="0.42075893" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
+      <window_info anchor="bottom" id="Docker" order="17" show_stripe_button="false" />
+      <window_info anchor="bottom" id="MyBatis Log" order="18" />
+      <window_info anchor="bottom" id="REST Client" order="19" />
+      <window_info anchor="bottom" id="Sequence" order="20" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Properties" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.20689656" />
+      <window_info anchor="right" id="CDI" order="10" />
+      <window_info anchor="right" id="JSF" order="11" />
+      <window_info anchor="right" id="Bean Validation" order="12" />
+      <window_info anchor="right" id="BPMNPalette" order="13" />
+      <window_info anchor="right" id="Mybatis datasource" order="14" side_tool="true" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="15" />
+      <window_info anchor="right" id="Alibaba Log Console" order="16" />
+      <window_info anchor="right" id="Maven" order="17" sideWeight="0.70647323" visible="true" weight="0.22854078" />
+      <window_info anchor="right" id="SciView" order="18" sideWeight="0.2935268" side_tool="true" visible="true" weight="0.22854078" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.3.1/HikariCP-3.3.1.jar!/com/zaxxer/hikari/HikariDataSource.class</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/samples-order-service/src/main/java/io/seata/samples/integration/order/dubbo/OrderDubboServiceImpl.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/io/seata/seata-all/1.2.0/seata-all-1.2.0-sources.jar!/io/seata/rm/datasource/exec/InsertExecutor.java</url>
+          <line>340</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/io/seata/seata-all/1.2.0/seata-all-1.2.0-sources.jar!/io/seata/rm/datasource/sql/struct/ColumnMeta.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.m2/repository/io/seata/seata-all/1.2.0/seata-all-1.2.0.jar!/io/seata/rm/datasource/exec/AbstractDMLBaseExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-609">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-order-service/target/classes/mapper/TOrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243" />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/seata/seata-all/1.2.0/seata-all-1.2.0.jar!/io/seata/integration/dubbo/alibaba/AlibabaDubboTransactionPropagationFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/seata/seata-all/1.2.0/seata-all-1.2.0.jar!/io/seata/integration/dubbo/ApacheDubboTransactionPropagationFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/seata/seata-all/1.2.0/seata-all-1.2.0.jar!/io/seata/rm/datasource/exec/InsertExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="280" selection-start-line="280" selection-end-line="280" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/seata/seata-all/1.2.0/seata-all-1.2.0-sources.jar!/io/seata/integration/dubbo/alibaba/AlibabaDubboTransactionPropagationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/seata/seata-all/1.2.0/seata-all-1.2.0-sources.jar!/io/seata/integration/dubbo/ApacheDubboTransactionPropagationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/seata/seata-all/1.2.0/seata-all-1.2.0-sources.jar!/io/seata/rm/datasource/sql/struct/ColumnMeta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="e#2654#2655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-jdbc-spring-boot-starter/4.1.0/sharding-jdbc-spring-boot-starter-4.1.0.jar!/org/apache/shardingsphere/shardingjdbc/spring/boot/sharding/SpringBootShardingRuleConfigurationProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-core-common/4.1.0/sharding-core-common-4.1.0.jar!/org/apache/shardingsphere/core/yaml/config/sharding/YamlShardingRuleConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="106" column="53" lean-forward="true" selection-start-line="106" selection-start-column="53" selection-end-line="106" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shardingsphere/sharding-core-common/4.1.0/sharding-core-common-4.1.0.jar!/org/apache/shardingsphere/core/yaml/config/sharding/YamlKeyGeneratorConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/seata/seata-all/1.2.0/seata-all-1.2.0-sources.jar!/io/seata/rm/datasource/exec/InsertExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="343" selection-start-line="343" selection-end-line="343" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/baomidou/mybatis-plus-annotation/3.3.1/mybatis-plus-annotation-3.3.1.jar!/com/baomidou/mybatisplus/annotation/TableId.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-order-service/src/main/java/io/seata/samples/integration/order/entity/TOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-order-service/src/main/java/io/seata/samples/integration/order/mapper/TOrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-order-service/src/main/resources/mapper/TOrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-common-service/src/main/java/io/seata/samples/integration/common/dubbo/AccountDubboService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-storage-service/src/main/java/io/seata/samples/integration/storage/controller/TStorageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-common-service/src/main/java/io/seata/samples/integration/common/dubbo/StorageDubboService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-common-service/src/main/java/io/seata/samples/integration/common/dto/CommodityDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-storage-service/src/main/java/io/seata/samples/integration/storage/dubbo/StorageDubboServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-storage-service/src/main/java/io/seata/samples/integration/storage/service/ITStorageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-storage-service/src/main/resources/mapper/TStorageMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="21" column="60" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-storage-service/src/main/java/io/seata/samples/integration/storage/mapper/TStorageMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-account-service/src/main/java/io/seata/samples/integration/account/config/SeataDataSourceAutoConfig.java" />
+    <entry file="file://$PROJECT_DIR$/samples-storage-service/src/main/java/io/seata/samples/integration/storage/service/TStorageServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" column="65" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-order-service/src/main/java/io/seata/samples/integration/order/service/TOrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-business-service/src/main/resources/seata.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-account-service/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="21" column="86" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-common-service/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="21" column="86" selection-start-line="21" selection-start-column="86" selection-end-line="21" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-order-service/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="21" column="86" selection-start-line="21" selection-start-column="86" selection-end-line="21" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-storage-service/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-business-service/src/main/java/io/seata/samples/integration/call/BusinessExampleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#812#813#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-business-service/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="21" column="86" selection-start-line="21" selection-start-column="86" selection-end-line="21" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-business-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-account-service/src/main/java/io/seata/samples/integration/account/service/TAccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="45" column="20" selection-end-line="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-order-service/src/main/java/io/seata/samples/integration/order/config/SeataDataSourceAutoConfig.java" />
+    <entry file="file://$PROJECT_DIR$/samples-account-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-business-service/src/main/java/io/seata/samples/integration/call/service/BusinessService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-account-service/src/main/resources/seata.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-account-service/src/main/java/io/seata/samples/integration/account/dubbo/AccountDubboServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="67" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-business-service/src/main/java/io/seata/samples/integration/call/controller/BusinessController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-storage-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-order-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-business-service/src/main/java/io/seata/samples/integration/call/service/BusinessServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-order-service/src/main/java/io/seata/samples/integration/order/dubbo/OrderDubboServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-account-service/src/main/java/io/seata/samples/integration/account/AccountExampleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-order-service/src/main/java/io/seata/samples/integration/order/OrderExampleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples-storage-service/src/main/java/io/seata/samples/integration/storage/StorageExampleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="27">
+            <caret line="1" column="80" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="80" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>seata-spring-boot-starter-samples</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

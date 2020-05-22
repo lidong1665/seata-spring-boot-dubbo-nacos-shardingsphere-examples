@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples-account-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples-business-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples-common-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples-order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples-storage-service" charset="UTF-8" />
+  </component>
+</project>
