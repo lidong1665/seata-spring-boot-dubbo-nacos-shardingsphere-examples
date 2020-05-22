@@ -32,7 +32,7 @@
         <dubbo.version>2.7.5</dubbo.version>
         <nacos-client.verison>1.2.1</nacos-client.verison>
         <seata.version>1.2.0</seata.version>
-        <netty.version>4.1.32.Final</netty.version>
+        <netty.version>4.1.42.Final</netty.version>
         <sharding-sphere.version>4.1.0</sharding-sphere.version>
     </properties>
 
