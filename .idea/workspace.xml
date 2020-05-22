@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71f8cef9-47f1-4b2d-93d6-b99769178001" name="Default Changelist" comment="" />
+    <list default="true" id="71f8cef9-47f1-4b2d-93d6-b99769178001" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/samples-common-service/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/samples-storage-service/target/" />
@@ -16,15 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/samples-account-service/src/main/java/io/seata/samples/integration/account/dubbo/AccountDubboServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="67" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/samples-business-service/src/main/java/io/seata/samples/integration/call/controller/BusinessController.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,7 +80,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -93,6 +88,16 @@
                 <caret line="1" column="80" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="80" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -135,6 +140,7 @@
       <find>81c90f61-e8da-4721-92f5-b6a6796af899</find>
       <find>nacos://127.0.0.1:8848?namespace=40508bb4-179e-4c98-a2f1-c2c031c20b3c</find>
       <find>2.2.6</find>
+      <find>China</find>
     </findStrings>
     <replaceStrings>
       <replace>40508bb4-179e-4c98-a2f1-c2c031c20b3c</replace>
@@ -144,6 +150,9 @@
       <dir>$PROJECT_DIR$</dir>
       <dir>D:\springcloud\seata-spring-boot-starter-samples-200\seata-spring-boot-starter-samples</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -183,7 +192,6 @@
         <option value="$PROJECT_DIR$/samples-order-service/pom.xml" />
         <option value="$PROJECT_DIR$/samples-storage-service/pom.xml" />
         <option value="$PROJECT_DIR$/samples-business-service/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/samples-account-service/src/main/resources/seata.conf" />
         <option value="$PROJECT_DIR$/samples-storage-service/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/samples-order-service/src/main/resources/application.yml" />
@@ -192,6 +200,7 @@
         <option value="$PROJECT_DIR$/samples-order-service/src/main/java/io/seata/samples/integration/order/OrderExampleApplication.java" />
         <option value="$PROJECT_DIR$/samples-storage-service/src/main/java/io/seata/samples/integration/storage/StorageExampleApplication.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -365,7 +374,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590111681808" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590112207547" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -480,12 +489,12 @@
       <workItem from="1589083519117" duration="8626000" />
       <workItem from="1589985737562" duration="1913000" />
       <workItem from="1590023306361" duration="26976000" />
-      <workItem from="1590111348406" duration="193000" />
+      <workItem from="1590111348406" duration="651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52524000" />
+    <option name="totallyTimeSpent" value="52982000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -512,7 +521,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.45812806" side_tool="true" weight="0.24104235" />
       <window_info anchor="bottom" id="Application Servers" order="8" sideWeight="0.49671593" weight="0.3041096" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32881355" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.5418719" weight="0.56808037" />
       <window_info anchor="bottom" id="Thumbnails" order="12" weight="0.32881355" />
@@ -843,14 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="45" column="20" selection-end-line="185" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/samples-order-service/src/main/java/io/seata/samples/integration/order/config/SeataDataSourceAutoConfig.java" />
     <entry file="file://$PROJECT_DIR$/samples-account-service/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -955,6 +956,14 @@
             <caret line="1" column="80" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="80" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
         </state>
       </provider>
     </entry>
