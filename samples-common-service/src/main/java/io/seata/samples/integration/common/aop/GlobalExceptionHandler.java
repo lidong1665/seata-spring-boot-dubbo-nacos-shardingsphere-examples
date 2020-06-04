@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 
 @Slf4j
-@ControllerAdvice(basePackages = "com.sinochem.finance.hsy")
+@ControllerAdvice(basePackages = "io.seata.samples.integration")
 public class GlobalExceptionHandler {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(GlobalExceptionHandler.class);
