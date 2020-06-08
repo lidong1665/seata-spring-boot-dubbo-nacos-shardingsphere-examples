@@ -17,6 +17,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
     <parent>
         <groupId>io.seata</groupId>
         <artifactId>seata-spring-boot-dubbo-nacos-shardingsphere-examples</artifactId>
@@ -27,6 +28,8 @@
     <packaging>jar</packaging>
     <name>samples-account-service</name>
 
+
+
     <dependencies>
         <dependency>
             <groupId>io.seata</groupId>
@@ -34,6 +37,7 @@
             <version>${parent.version}</version>
         </dependency>
     </dependencies>
+
 
     <build>
         <plugins>

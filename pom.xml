@@ -26,13 +26,10 @@
     <properties>
         <springboot.verison>2.2.6.RELEASE</springboot.verison>
         <java.version>1.8</java.version>
-        <mybatis-plus.version>2.3</mybatis-plus.version>
-        <nacos.version>0.2.3</nacos.version>
-        <lombok.version>1.16.22</lombok.version>
-        <dubbo.version>2.7.5</dubbo.version>
+        <lombok.version>1.18.12</lombok.version>
+        <dubbo.version>2.7.7</dubbo.version>
         <nacos-client.verison>1.2.1</nacos-client.verison>
         <seata.version>1.2.0</seata.version>
-        <netty.version>[4.1.42,)</netty.version>
         <sharding-sphere.version>4.1.0</sharding-sphere.version>
     </properties>
 
@@ -122,12 +119,6 @@
             <version>${lombok.version}</version>
         </dependency>
 
-
-        <dependency>
-            <groupId>io.netty</groupId>
-            <artifactId>netty-all</artifactId>
-            <version>${netty.version}</version>
-        </dependency>
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>

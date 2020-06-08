@@ -11,8 +11,7 @@ import io.seata.samples.integration.common.exception.DefaultException;
 import io.seata.samples.integration.common.response.ObjectResponse;
 import io.seata.spring.annotation.GlobalTransactional;
 import lombok.extern.slf4j.Slf4j;
-import org.apache.dubbo.config.annotation.Reference;
-import org.apache.shardingsphere.transaction.annotation.ShardingTransactionType;
+import org.apache.dubbo.config.annotation.DubboReference;
 import org.apache.shardingsphere.transaction.core.TransactionType;
 import org.apache.shardingsphere.transaction.core.TransactionTypeHolder;
 import org.springframework.stereotype.Service;
@@ -26,10 +25,10 @@ import org.springframework.stereotype.Service;
 @Slf4j
 public class BusinessServiceImpl implements BusinessService{
 
-    @Reference(version = "1.0.0",timeout = 300000)
+    @DubboReference(version = "1.0.0", timeout = 300000)
     private StorageDubboService storageDubboService;
 
-    @Reference(version = "1.0.0",timeout = 300000)
+    @DubboReference(version = "1.0.0",timeout = 300000)
     private OrderDubboService orderDubboService;
 
     boolean flag;

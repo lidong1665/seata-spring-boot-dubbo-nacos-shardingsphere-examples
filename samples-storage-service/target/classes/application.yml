@@ -1,0 +1,85 @@
+server:
+  port: 8109
+#====================================stream =============================================
+spring:
+  shardingsphere:
+    datasource:
+      names: ds0
+      ds0:
+        type: com.zaxxer.hikari.HikariDataSource
+        driver-class-name: com.mysql.jdbc.Driver
+        jdbc-url: jdbc:mysql://127.0.0.1:3306/ds2?useUnicode=true&characterEncoding=UTF-8&useSSL=false
+        username: root
+        password: 123456
+    sharding:
+      tables:
+        t_storage:
+          actual-data-nodes: ds0.t_storage$->{0..1}
+          key-generator:
+            column: id
+            type: SNOWFLAKE
+            props:
+              worker.id = 2
+          table-strategy:
+            inline:
+              sharding-column: id
+              algorithm-expression: t_storage$->{id % 2}
+    props:
+      sql.show: true
+  application:
+    name: dubbo-storage-example
+
+#====================================Dubbo config===============================================
+dubbo:
+  application:
+    id: dubbo-storage-example
+    name: dubbo-storage-example
+    qosEnable: false
+  protocol:
+    id: dubbo
+    name: dubbo
+    port: 20888
+  registry:
+    id: dubbo-storage-example-registry
+    address: nacos://127.0.0.1:8848?namespace=40508bb4-179e-4c98-a2f1-c2c031c20b3c
+  config-center:
+    address: nacos://127.0.0.1:8848?namespace=40508bb4-179e-4c98-a2f1-c2c031c20b3c
+  metadata-report:
+    address: nacos://127.0.0.1:8848?namespace=40508bb4-179e-4c98-a2f1-c2c031c20b3c
+  consumer:
+    retries: 0
+#====================================mybatis-plus config===============================================
+mybatis-plus:
+  mapper-locations: classpath*:/mapper/*.xml
+  typeAliasesPackage: io.seata.samples.integration.*.entity
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      id-type: auto
+
+
+#====================================Seata Config===============================================
+seata:
+  enabled: true
+  application-id: storage-seata-example
+  tx-service-group: storage-service-seata-service-group # 事务群组（可以每个应用独立取名，也可以使用相同的名字）
+  registry:
+    file:
+      name: file.conf
+    type: nacos
+    nacos:
+      server-addr: localhost:8848
+      namespace: 40508bb4-179e-4c98-a2f1-c2c031c20b3c
+      cluster: default
+  config:
+    file:
+      name: file.conf
+    type: nacos
+    nacos:
+      namespace: 40508bb4-179e-4c98-a2f1-c2c031c20b3c
+      server-addr: localhost:8848
+      group: SEATA_GROUP
+  enable-auto-data-source-proxy: true
+  use-jdk-proxy: true

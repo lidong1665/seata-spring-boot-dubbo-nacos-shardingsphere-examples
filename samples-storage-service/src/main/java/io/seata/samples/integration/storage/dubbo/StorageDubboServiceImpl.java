@@ -10,6 +10,7 @@ import io.seata.samples.integration.common.response.ObjectResponse;
 import io.seata.samples.integration.storage.entity.TStorage;
 import io.seata.samples.integration.storage.service.ITStorageService;
 import lombok.extern.slf4j.Slf4j;
+import org.apache.dubbo.config.annotation.DubboService;
 import org.apache.dubbo.config.annotation.Service;
 import org.springframework.beans.factory.annotation.Autowired;
 
@@ -18,7 +19,7 @@ import org.springframework.beans.factory.annotation.Autowired;
  * @Description
  * @Date Created in 2019/1/23 16:13
  */
-@Service(version = "1.0.0",protocol = "${dubbo.protocol.id}",
+@DubboService(version = "1.0.0",protocol = "${dubbo.protocol.id}",
         application = "${dubbo.application.id}",registry = "${dubbo.registry.id}",
         timeout = 300000)
 @Slf4j
