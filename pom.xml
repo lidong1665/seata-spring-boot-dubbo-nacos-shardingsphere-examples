@@ -27,7 +27,7 @@
         <springboot.verison>2.2.6.RELEASE</springboot.verison>
         <java.version>1.8</java.version>
         <lombok.version>1.18.12</lombok.version>
-        <dubbo.version>2.7.13</dubbo.version>
+        <dubbo.version>2.7.15</dubbo.version>
         <nacos-client.verison>1.2.1</nacos-client.verison>
         <seata.version>1.2.0</seata.version>
         <sharding-sphere.version>4.1.0</sharding-sphere.version>
